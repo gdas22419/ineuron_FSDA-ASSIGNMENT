@@ -1,0 +1,113 @@
+Power BI Assignment 2
+
+1. Explain the advantages of Natural Queries in PowerBi with an example
+2. Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+3. Explain Back End cluster from Power BI Service Architecture?
+4. What ASP.NET component does in Power BI Service Architecture?
+5. Compare Microsoft Excel and PowerBi Desktop on the following features:
+   Data import
+   Data transformation
+   Modeling
+   Reporting
+   Server Deployment
+   Convert Models
+   Cost
+6. List 20 data sources supported by Power Bi desktop.
+
+1. Explain the advantages of Natural Queries in PowerBi with an example
+
+date function  : date.IsInNextDay
+
+
+2. Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+
+Clients and the back end are connected by the front end, commonly known as the 
+web front-end cluster. The front-end services handle the initial connection and]
+ Azure Active Directory client authentication. User IDs are kept in the Azure Active Directory.
+ After authentication, user requests are routed through Azure Traffic Manager to the closest data center.
+ The Azure Content Delivery Network (CDN) makes static Power BI content and files available
+ to users when a client or user has been authorized. 
+ 
+ 3. Explain Back End cluster from Power BI Service Architecture?
+ 
+ Visualizations, datasets, storage, reports, data connections, data updating, and other
+ Power BI interactions are handled by the Power BI services on the back end. A web client
+ can only directly interface with Azure API Management and Gateway Role on the backend.
+ These two parts are in charge of routing, load balancing, authentication, and authorization. 
+ 
+4. What ASP.NET component does in Power BI Service Architecture?
+
+By using ASP.NET component  WFE cluster can be create 
+
+5. Compare Microsoft Excel and PowerBi Desktop on the following features:
+   Data import
+   Data transformation
+   Modeling
+   Reporting
+   Server Deployment
+   Convert Models
+   Cost
+   
+
+   
+   
+ Microsoft Excel:
+ 
+  data import :
+  We can import data by using get data_tab but data sources are min like(csv,text,XML,JSOn)
+
+  Data transformation:
+  we have multiple op[tions for data transformation by usning quarry as well as by using diifent tab in excel
+  alsmost same in power bi.
+ data modeling:
+ It allows integrating data from multiple tables by creating relationships based on a common column.
+ It is saved in memory, where we cannot directly see it.
+ commands:
+ data_tab>connections 
+ data_tab> relationships
+ 
+ Reporting:
+ we can create report by using pivot table slicer, and many visualizations options 
+ power bI
+ Server Deployment:
+ 
+   data import :
+   
+  we can import data by get data_tab here we have multiple options 
+  
+  Data transformation:
+  we have multiple op[tions for data transformation by using power quarry
+we have more than 900 m function also for data transformation.
+
+ Reporting:
+ we can create report by usning differnt charts cards and slicer and many more 
+ 
+ data modeling:
+  data modeling:
+  A relationship defines how data sources are connected with each other and you can create interesting 
+  data visualizations on multiple data sources.
+  
+  directly through modeling_tab
+   
+  6. List 20 data sources supported by Power Bi desktop.
+  
+Excel
+Text/CSV
+XML
+JSON
+Oracle Database
+IBM DB2 Database
+MySQL Database
+PostgreSQL Database
+Sybase Database
+Teradata Database
+SAP HANA Database
+SAP Business Warehouse server
+Amazon Redshift
+Impala
+Google BigQuery (Beta)
+Azure SQL Database
+Salesforce Reports
+Google Analytics
+Facebook
+GitHub
