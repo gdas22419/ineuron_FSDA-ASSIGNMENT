@@ -1,0 +1,97 @@
+Power BI Assignment 1
+1. What do you mean by BI? Explain.
+2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+3. Explain Descriptive analytics?
+4. Explain Predictive analytics?
+5. Explain perspective analytics?
+6. Write five real-life questions that PowerBi can solve.
+
+1. What do you mean by BI? Explain.
+BI - Business Intelligence
+Business Intelligence is a set of process , architure and techonlogy that converts raw-data in to meaning full 
+information that drives in to profitable business actions.
+
+BI has a direct impact on organization’s strategic, tactical and operational business decisions. BI supports 
+fact-based decision making using historical data rather than assumptions and gut feeling.
+
+BI tools perform data analysis and create reports, summaries, dashboards, maps, graphs, and charts to provide
+users with detailed intelligence about the nature of the business.
+
+
+2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+ans : Mainly BI have 4 steps 
+Data preparation: Compiling data from multiple sources and formatting them for analysis
+Data querying: Obtaining answers from datasets to answer specific data questions.
+Data visualization: Creating visual representations of analysis in charts, graphs, histograms, and more for easy understanding.
+Performance metrics reporting: Comparing current performance to historical data and sharing results with stakeholders for decision-making.
+Data mining: Using statistics and machine learning to uncover trends in big datasets.
+
+Power-BI has a simple drag-and-drop interface for analysts to perform such activities .
+
+Advantage of power-bi:
+To Extract insights from data no coding skills required
+Democratize data insights with dashboards
+Tell data stories with advanced data visualization
+
+3. Explain Descriptive analytics?
+
+Descriptive analytics is the process of parsing historical data to better understand the changes that have occurred in a business.
+It can help to identify the areas of strength and weakness in an organization.
+It is an important component of performance analysis so that managers can make 
+informed strategic business decisions based on historical data.
+
+4. Explain Predictive analytics?
+
+ Predictive analytics is a branch of advanced analytics that makes predictions about future outcomes using historical
+ data combined with statistical modeling, data mining techniques and machine learning. Companies employ predictive 
+ analytics to find patterns in this data to identify risks and opportunities. Predictive analytics is often
+ associated with big data and data science.
+ 
+ 5. Explain perspective analytics?
+ 
+ Prescriptive analytics is a form of data analytics that tries to answer "What do we need to do to achieve this?"
+It uses machine learning to help businesses decide a course of action based on a computer program’s predictions.
+Prescriptive analytics works with predictive analytics, which uses data to determine near-term outcomes.
+When used effectively, it can help organizations make decisions based on facts and probability-weighted
+ projections instead of conclusions based on instinct.
+ 
+ 6. Write five real-life questions that PowerBi can solve.
+ 
+ solution 1 :
+ Gathering a huge amount of data from different sources can be an uphill task.
+ Power BI helps you to access your data instantly with less manual work. 
+ It can handle a huge amount of data making it easy to decipher using
+ advanced visualizations. It allows you to get data from different 
+ data sources by automatically connecting with them, saving you time and effort. 
+ Once a report is created, you only have to hit refresh or enable a schedule refresh 
+ to get real-time insights. This will prevent any human error and skewed results. 
+ 
+ solution 2:
+ FINDING SPECIFIC DATA IN LARGE DATA VOLUMES WITH POWER BI
+ Power BI, providing the users with an easy search of datasets.
+ Once you have imported a dataset in PBI Desktop, you can access that anytime, 
+ from anywhere, as many times as you want. For instance, in the Query Editor, 
+ you can go to “View” in the header and select the “Go to Column” to navigate to the column you want. 
+ 
+ solution 3:
+ DATA QUALITY
+ Power BI helps you quickly identify data quality issues and provides numerous
+ ways to address them. Power Query provides you with exciting features to clean 
+ and prepare data for analysis. The data profiling tools can help you remove all
+ the inconsistencies, null values, and data quality problems. 
+ 
+ solution 4:
+ ONLY TECH TEAMS CAN CREATE BUSINESS REPORTS
+  Microsoft Power BI is a user-friendly and simple tool and can be used by anyone, even by non-experienced BI people.
+  Usually, a skilled person is required to model the data, but no special skills are required in Power BI.
+  So, it is quite easy to create and understand data through visualizations in Power BI. 
+  
+  solution 5:
+  UNABLE TO FORESEE FUTURE TRENDS 
+  Power BI helps in monitoring the processes of the company. It can easily spot trends with the help
+  of the data gathered during monitoring. Data Analysis Expressions (DAX) provides a wide range of 
+  functionalities for trends analysis. The trending AI Capabilities of Power BI help you visualize 
+  the future using predictive analytics and other such big data tools. This can help businesses foresee 
+  any need to recruit more employees, change a specific requirement, or further invest in technology. 
+
