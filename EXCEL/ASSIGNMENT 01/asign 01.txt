@@ -1,0 +1,69 @@
+Advance Excel Assignment 1
+
+1. What do you mean by cells in an excel sheet?
+2. How can you restrict someone from copying a cell from your worksheet?
+3. How to move or copy the worksheet into another workbook?
+4. Which key is used as a shortcut for opening a new window document?
+5. What are the things that we can notice after opening the Excel interface?
+6. When to use a relative cell reference in excel?
+
+----------**********************************************************-------------------------------
+Ans 1.  In the Excel worksheet, a cell is a rectangular-shaped box. It is a small unit of the Excel spreadsheet.
+ There are around 17 billion cells in an Excel worksheet, which are united together in horizontal and vertical lines.
+ An Excel worksheet contains cells in rows and columns.
+ 
+ Ans 2. On the Review tab, click Protect Sheet. In the Allow all users of this worksheet to list, select the elements you
+ want people to be able to change. Move the pointer to cells for which the Locked box is checked on the Protection tab
+ of the Format Cells dialog box.
+ 
+ Ans 03 On the Edit menu, click Sheet > Move or Copy Sheet. On the To book menu, click the workbook that you want to move the sheet to.
+ 
+ Ans 04 Ctrl+N
+ 
+ Ans 05 
+ 1. Quick Access Toolbar:
+ 
+The Quick Access Toolbar is found on the top-left of the Excel window which contains the commonly-used commands in Excel. 
+This toolbar can be customized and lets you choose which commands you want to access easily. By default, this contains the save,
+ undo, and redo commands.
+ 
+ 2. Ribbon
+ 
+The Ribbon interface contains the commands that are available for use in Excel. This has multiple tabs including the File,
+ Home, Insert, Page Layout, Formulas, Data, Review, View, Add-ins, and Help tabs. There are tabs that will appear when necessary; 
+ for example, the Format tab appears when you click an inserted shape.
+ 
+ 
+3. Name Box
+ 
+The Name Box is an input box which normally displays the name or location of the active cell on the worksheet. 
+This is also used to directly create a named range. When you open a blank workbook, the selected cell is A1, by default.
+
+4. Formula Quick Menu
+The Formula Quick Menu beside the Name box is a shortcut when you want to insert a function. If you click the fx option,
+ the Insert Function will pop-up to let you choose which Excel function would you like to use.
+ 
+ 5. Formula Bar
+ 
+The Formula Bar is found just beside the Formula Quick Menu. This allows you to enter or edit data, formula or a function 
+that will appear in the selected cell whose name or location appears in the Name Box.
+
+6.Status Bar
+ 
+The Status Bar in the bottom-left corner of the Excel window displays various information about the current mode of the workbook.
+
+7. Worksheet View Options
+
+The Worksheet View Options lets you choose which of the 3 worksheet views you want (Normal, Page Layout, or Page Break Preview). 
+By default, the worksheet view is set to Normal
+
+8. Zoom Percentage Indicator
+ 
+The Zoom Percentage Indicator displays the zoom percentage just beside the Zoom Slider Control. By default, it is set to 100%.
+
+9. Zoom Slider Control
+ 
+The Zoom Slider Control helps you zoom in and zoom out the worksheet.
+
+Ans 06 Relative references are especially convenient whenever you need to repeat the same calculation across multiple rows or columns.
+
