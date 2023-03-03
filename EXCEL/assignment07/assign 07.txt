@@ -1,0 +1,52 @@
+Excel Assignment - 7
+1. Using Insert Function, give examples of any function available in the
+different dropdowns present in the function library. For example
+AutoSum, Recently Used, Text, Date & Time, etc.
+2. What are the different ways you can select columns and rows?
+3. What is AutoFit and why do we use it?
+4. How can you insert new rows and columns into the existing table?
+5. How do you hide and unhide columns in excel?
+6. Create an appropriate table within the worksheet and use different
+functions available in the AutoSum command.
+
+---------------------*************************************************--------------------------
+1. Using Insert Function, give examples of any function available in the different dropdowns present in the
+ function library. For example AutoSum, Recently Used, Text, Date & Time, etc.
+ ans: 
+ 
+2. What are the different ways you can select columns and rows?
+ans: 
+Select the letter at the top to select the entire column. Or click on any cell in the column and then press Ctrl + Space.
+Select the row number to select the entire row. ...
+To select non-adjacent rows or columns, hold Ctrl and select the row or column numbers.
+
+3. What is AutoFit and why do we use it?
+ans:
+Microsoft Excel provides a handful of different ways to change column width and adjust row height. 
+The easiest way to resize cells is to have Excel automatically determine how much to widen or narrow
+ the column and to expand or collapse the row to match the data size. This feature is known as Excel AutoFit.
+ 
+ 4. How can you insert new rows and columns into the existing table?
+ ans:
+ Click a table cell to the right or the left of the column where you want the new column to appear. 
+ On the Layout tab, in the Rows & Columns group, do one of the following: To add a column to the left of 
+ the selected cell, click Insert Left. To add a column to the right of the selected cell, click Insert Right.
+ 
+ 5. How do you hide and unhide columns in excel?
+ ans:
+ On the Home tab, in the Cells group, click Format. Do one of the following: Under Visibility,
+ click Hide & Unhide, and then click Unhide Rows or Unhide Columns.
+ 
+ 6. Create an appropriate table within the worksheet and use different
+functions available in the AutoSum command.
+ans:
+When you click AutoSum, Excel automatically enters a formula (that uses the SUM function) to sum the numbers.
+sum
+average
+if
+hyperlink
+sin
+sumif
+pmt
+stdev
+
