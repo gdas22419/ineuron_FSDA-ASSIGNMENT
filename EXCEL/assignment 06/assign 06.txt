@@ -1,0 +1,62 @@
+
+Excel Assignment - 6
+1. What are the various elements of the Excel interface? Describe how
+they're used.
+2. Write down the various applications of Excel in the industry.
+3. On the ribbon, make a new tab. Add some different groups, insert
+commands in the groups and name them according to their commands
+added. Copy and paste the screenshot of the steps you followed.
+4. Make a list of different shortcut keys that are only connected to
+formatting with their functions.
+5. What distinguishes Excel from other analytical tools?
+6. Create a table and add a custom header and footer to your table.
+
+---------------------**************************-------------------
+
+1. What are the various elements of the Excel interface? Describe how
+they're used.
+ans: Quick Access Toolbar, Ribbon, Name Box, Formula Quick Menu, Formula Bar, Status Bar, 
+Worksheet View Options, Zoom Slider Control, and the Zoom Percentage Indicator.
+
+2. Write down the various applications of Excel in the industry.
+ans: Data entry.
+Data management.
+Accounting.
+Financial analysis.
+Charting and graphing.
+Programming.
+Time management.
+Task management.
+
+3. On the ribbon, make a new tab. Add some different groups, insertcommands in the groups and name 
+them according to their commandsadded. Copy and paste the screenshot of the steps you followed.
+ans: 
+
+4. Make a list of different shortcut keys that are only connected to
+formatting with their functions
+
+01. Open the Format Cells dialog box.                           Ctrl+1
+02. Format fonts in the Format Cells dialog box.                Ctrl+Shift+F or Ctrl+Shift+P
+03.Move the selected cells.                                     Ctrl+X
+04. Copy the selected cells.                                    Ctrl+C
+05. Paste content at the insertion point,                       Ctrl+V
+replacing any selection.
+06. Italicize text or remove italic formatting.                 Ctrl+I or Ctrl+3
+07. Bold text or remove bold formatting.                        Ctrl+B or Ctrl+2
+08. Underline text or remove underline.                         Ctrl+U or Ctrl+4
+09. Apply an outline border to the selected cells.              Ctrl+Shift+Ampersand sign (&)
+10. Remove the outline border from the selected cells.          Ctrl+Shift+Underscore (_)
+11. Apply the Currency format with two decimal                  Ctrl+Shift+Dollar sign ($)
+12. Apply the Percentage format with no decimal places.         Ctrl+Shift+Percent sign (%)
+13. Apply the Scientific number format with two decimal places  Ctrl+Shift+Caret sign (^)
+14. Apply the Date format with the day, month, and year.        Ctrl+Shift+Number sign (#)
+15. Open the Insert hyperlink dialog box                        Ctrl+K
+
+5. What distinguishes Excel from other analytical tools?
+ans :
+It’s easy to get started with Excel.
+The learning resources are very rich.
+You can do a lot of things with Excel: modeling, visualization, reports, dynamic charts, etc.
+It can help you understand the meaning of many operations before further learning other tools (such as Python and R).
+
+6. Create a table and add a custom header and footer to your table.
