@@ -1,0 +1,54 @@
+
+
+Advance Excel Assignment 3
+1. How and when to use the AutoSum command in excel?
+2. What is the shortcut key to perform AutoSum?
+3. How do you get rid of Formula that omits adjacent cells?
+4. How do you select non-adjacent cells in Excel 2016?
+5. What happens if you choose a column, hold down the Alt key and press the letters ocw in quick succession?
+6. If you right-click on a row reference number and click on Insert, where will the row be added?
+
+---------------------------------**************************************-----------------------------
+
+1. How and when to use the AutoSum command in excel?
+ans : When you click AutoSum, Excel automatically enters a formula (that uses the SUM function) to sum the numbers.
+	click AutoSum on the Home tab, press Enter.
+
+2. What is the shortcut key to perform AutoSum?
+ans : Alt+=
+
+3. How do you get rid of Formula that omits adjacent cells?
+ans : The error formula omits adjacent cells means that Excel cannot calculate the formula because it is missing something. 
+either the cell have these problem :
+	[Cell has no data ,
+	The cell no longer exists ,
+	Range has been changed ,
+	Blank cells in between]
+
+Check off the following first before you proceed:
+
+First, check to make sure that your formula includes all of the necessary parts.
+If you are working with a small data set, try to identify any empty cells and delete them.
+
+1. Uncheck formulas that omit cells
+Launch your Excel sheet and then click on File.
+Navigate to Options and then select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+
+2. Switch from absolute to relative reference
+Open the Excel sheet and select the cell that contains the formula.
+Navigate to the formula bar at the top and press F4 until you get the relative reference option.
+
+4. How do you select non-adjacent cells in Excel 2016?
+ans: Click on the cell.
+Press the Control key on the keyboard. Keep holding it down while you are selecting cells.
+Hold the left-click button on the mouse and drag it to the cells you want to select.
+
+
+5. What happens if you choose a column, hold down the Alt key and press the letters ocw in quick succession?
+ans: 
+Adjust Columns width to specific value: Option/Row/width
+
+
+6. If you right-click on a row reference number and click on Insert, where will the row be added?
+ans: A new row is inserted above the cell(s) you originally selected.
