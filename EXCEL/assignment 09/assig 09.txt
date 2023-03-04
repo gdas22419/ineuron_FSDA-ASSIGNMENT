@@ -1,0 +1,49 @@
+Excel Assignment - 9
+
+1. What are the different margins options and do we adjust the margins of
+the excel worksheet?
+
+2. Set a background for your table created.
+3. What is freeze panes and why do we use freeze panes? Give
+examples.
+4. What are the different features available within the Freeze Panes
+command?
+5. Explain what the different sheet options present in excel are and what
+they do?
+
+--------------------*********************************---------------------
+1. What are the different margins options and do we adjust the margins of
+the excel worksheet?
+ans:
+There are four margins you can specify: top, bottom, left, and right. Each margin refers to the 
+distance from the edge of the paper to where the information in your worksheet can be printed.
+
+2. Set a background for your table created.
+ans:
+The background color of the table is given by the bgcolor="color" attribute.
+ When applied to the <table> tag, the color fills the background. Cell background colors 
+ are set by applying the bgcolor attribute to a <tr> tag (to color the row) or to a <td> tag (to color the cell).
+ 
+ 3. What is freeze panes and why do we use freeze panes? Give examples
+ ans:The Excel Freeze Panes option allows you to lock your columns and/or rows so that when you scroll down or 
+ over to view the rest of your sheet, the column and/or row will remain on the screen.
+ 
+ 4. What are the different features available within the Freeze Panes command?
+ ans:
+ Freeze pane. 
+Freeze Top row.
+Freeze First column.
+
+5. Explain what the different sheet options present in excel are and what they do?
+ans:
+Ribbon Sheet Options
+Right-click Sheet Options
+
+some quick sheet options are also present on the Excel ribbon and can be accessed by going to 
+Page Layout > Sheet Options. It mainly has four toggle options: two for Gridlines and two for Headings,
+ and they can be turned on and off by selecting and deselecting the checkboxes.
+ 
+ The right-click with mouse button usually displays the context menu for the selected element.
+When we press the right-click on any Sheet tabs, Excel displays a list of options relevant to Excel sheets. 
+The list includes various sheet options. However, this list is usually called the 'worksheet menu'.
+
