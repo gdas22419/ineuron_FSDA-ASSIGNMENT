@@ -1,0 +1,67 @@
+
+
+Advance Excel Assignment 2
+1. What does the dollar($) sign do?
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+3. Explain the order of operations in excel?
+4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+5. When would you use the subtotal function?
+6. What is the syntax of the vlookup function? Explain the terms in it?
+
+-----------------------********************************--------------------------------
+1. What does the dollar($) sign do?
+ans : Dollar sign indicates ansolute refrence , When a formula contains an absolute reference,
+ no matter which cell the formula occupies the cell reference does not change: if you copy or 
+ move the formula, it refers to the same cell as it did in its original location.
+ 
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+ans : Click the formula box (shown below) or highlight the formula and press the F4 key 
+to switch between an absolute and relative cell reference.
+
+3. Explain the order of operations in excel?
+ans: Formulas calculate values in a specific order. A formula in Excel always begins with an 
+ equal sign (=). Excel interprets the characters that follow the equal sign as a formula.
+ Following the equal sign are the elements to be calculated (the operands), such as constants or 
+ cell references. These are separated by calculation operators. Excel calculates the formula from left to right,
+ according to a specific order for each operator in the formula.
+ 
+ 4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+ 
+ ans : 
+ 1. IF function :
+	Syntax: =IF(A1>B2; “TRUE”; “FALSE”)
+	
+2. vlookup function :
+	syntax : = VLOOKUP([value], [range], [column number], [false or true])
+	* The value you want to look up;
+	* The range in which you want to find the value and the return value;
+	* The number of the column within your defined range, that contains the return value;
+	* 0 or FALSE for an exact match with the value your are looking for; 1 or TRUE for an approximate match.
+	
+3. Hlookup function:
+	Syntax: HLOOKUP([value], [range], [row number], [false or true])
+	* The value you want to look up;
+	* The range in which you want to find the value and the return value;
+	* The number of the row within your defined range, that contains the return value;
+	* 0 or FALSE for an exact match with the value your are looking for; 1 or TRUE for an approximate match.
+	
+4. AVERAGE function :
+	syntax : “=AVERAGE(C2, C3, C4)” 
+	It automatically calculates the average, and you can store the result in your desired location.
+	
+5. CONCATENATE function :
+	syntax : "=CONCATENATE(A25, " ", B25)" 
+	
+5. 5. When would you use the subtotal function?
+
+ans: subtotal calculation on cells ranging from A2 to A4
+	syntax : “=SUBTOTAL(1, A2: A4)"
+	
+6. What is the syntax of the vlookup function? Explain the terms in it?
+ans:	syntax : = VLOOKUP([value], [range], [column number], [false or true])
+	* The value you want to look up;
+	* The range in which you want to find the value and the return value;
+	* The number of the column within your defined range, that contains the return value;
+	* 0 or FALSE for an exact match with the value your are looking for; 1 or TRUE for an approximate match.
+	
+	
