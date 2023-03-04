@@ -1,0 +1,20 @@
+ASSIGNMENT 11
+
+Use the above dataset and answer the following questions.
+1. What is the total amount of stationary bought from Madhya Pradesh?
+2. What is the total count of stationary bought from Tamilnadu?
+3. What is the total amount spent on footwear?
+4. What is the total amount of money spent for stationary in July?
+5. What is the count of footwear that is coming from Delhi?
+
+-----------------------*******************************--------------------------------------
+
+1. What is the total amount of stationary bought from Madhya Pradesh?
+ans:
+
+category	country	       month      	Total amount
+Stationary	Madhya Pradesh		        176971
+Stationary	Tamilnadu		            62392
+Footwear			                    194226
+Stationary		            6           25848
+Footwear	Delhi		                9784
