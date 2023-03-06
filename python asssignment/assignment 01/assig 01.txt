@@ -1,0 +1,51 @@
+
+Assignment 01:
+
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+* = mathematical operatorS
+'hello' = STRING
+-87.8 = FLOAT
+- = MINUS OPERTAOR
+/ = DIVSION OPERTAOR
++ = PLUS OPERATOR
+6 = INTEGER
+
+2. What is the difference between string and variable?
+ANS: string : It is a data types
+     variables : It strore the information
+
+3. Describe three different data types.
+ans: int,str,bool
+
+4. What is an expression made up of? What do all expressions do?
+ans:
+EXPRESION is combinations of opertaors and operands, 
+
+
+5. This assignment statements, like spam = 10. What is the difference between an
+expression and a statement?
+ans:
+Expressions only contain identifiers, literals and operators, where operators include
+arithmetic and boolean operators, the function call operator () the subscription operator []
+
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+ans : 23
+
+7. What should the values of the following two terms be?
+spam + spamspam
+spam* 3
+ans: 1= 'spamspamspam'
+     2 = 'spamspamspam'
+
+8. Why is eggs a valid variable name while 100 is invalid?
+ans: variables name can not begins with number
+
+9. What three functions can be used to get the integer, floating-point number, or string
+version of a value?
+ans: int(),float(),str()
+10. Why does this expression cause an error? How can you fix it?
+'I have eaten' + 99 +  'burritos'
+ans: we can not add integer in string
