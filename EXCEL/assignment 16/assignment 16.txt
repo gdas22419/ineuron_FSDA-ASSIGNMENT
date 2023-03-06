@@ -1,0 +1,67 @@
+
+Excel Assignment - 16
+
+1. What is a Macro? How is it useful in excel or in your daily work?
+2. What is VBA? Write its full form and briefly explain why VBA is used in
+excel?
+3. How do you record a macro? Write detailed steps to create a macro to
+automatically make the following table in bold and to create borders for
+it in excel.
+
+4. What do you mean when we say VBA Editor?
+5. Briefly describe the interface of a VBA editor? What is properties
+window? And what is watch window? How do you display these
+windows?
+6. What is an immediate Window and what is it used for?
+
+------------------------------*********************************---------------------------------
+1. What is a Macro? How is it useful in excel or in your daily work?
+ans: An Excel macro is an action or a set of actions that can be recorded, named, 
+saved and executed as many times as required and whenever desired. By using macros, 
+we are able to automate repetitive tasks associated with data manipulation and 
+data reporting that must be accomplished repeatedly.
+
+2. What is VBA? Write its full form and briefly explain why VBA is used in excel?
+ans: Visual Basic for Applications is a computer programming language developed and owned by Microsoft.
+ With VBA you can create macros to automate repetitive word- and data-processing functions,
+ and generate custom forms, graphs, and reports. VBA functions within MS Office applications.
+ 
+ 
+3. How do you record a macro? Write detailed steps to create a macro to automatically make the following 
+table in bold and to create borders for it in excel.
+ans: 
+step-01 :In the Code group on the Developer tab, click Record Macro.
+
+step-02: Enter a name for the macro in the Macro name box, enter a shortcut key in the Shortcut key box,
+ and a description in the Description box, and then click OK to start recording.
+ 
+step-03: select the table , click shift+B to make bold again click alt+H,B,A (to add all border in the cells)
+
+step04: On the Developer tab, click Stop Recording.
+
+4. What do you mean when we say VBA Editor?
+ans:Microsoft Visual Basic for Applications (VBA) enables non-programmers to record, create, and edit macros 
+that can automate tasks in Office applications.
+
+5. Briefly describe the interface of a VBA editor? What is properties window? 
+And what is watch window? How do you display these windows?
+
+ans: VBA editor interface have 4 options
+Tool Bar : 
+menu bar : file , edit, view,inse
+project: sheets, module ,class,object
+prpeties windows: 
+The Properties window is used to display properties for objects selected in the two main types of windows
+ available in the Visual Studio integrated development environment (IDE). These two types of windows are:
+ Tool windows such as Solution Explorer, Class View, and Object browser.
+ 
+watch window:The Watch Window makes it convenient to inspect, audit, or confirm formula calculations and results 
+in large worksheets. By using the Watch Window, you don't need to repeatedly scroll or go to different parts of 
+your worksheet. This toolbar can be moved or docked like any other toolbar.
+
+
+6. What is an immediate Window and what is it used for?
+ans:The Immediate window displays information resulting from debugging statements in your code or from commands
+ typed directly into the window. From the View menu, choose Immediate window (CTRL+G).
+
+
