@@ -1,0 +1,65 @@
+ASSIGNMENT 03
+
+1. Why are functions advantageous to have in your programs?
+ANS: 
+Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs 
+a particular task. Once a function is created, the details of how it works can almost be forgotten about. 
+In this way the detail is abstracted, allowing the programmer to focus on the bigger picture.
+
+2. When does the code in a function run: when it's specified or when it's called?
+ans:The code inside a function is executed when the function is invoked.
+It is common to use the term "call a function" instead of "invoke a function". 
+It is also common to say "call upon a function", "start a function", or "execute a function".
+
+
+3. What statement creates a function?
+ans:To create a function, we must first declare it and give it a name, the same way we'd create any variable, 
+and then we follow it by a function definition: var sayHello = function() { }; We could put any code inside 
+that function - one statement, multiple statements - depends on what we want to do.
+
+4. What is the difference between a function and a function call?
+ans:A function is a block of code that does a particular operation and returns a result. It usually
+ accepts inputs as parameters and returns a result. The parameters are not mandatory.
+ A function call is the code used to pass control to a function.
+
+5. How many global scopes are there in a Python program? How many local scopes?
+ans: There's only one global Python scope per program execution. This scope remains in existence until
+ the program terminates and all its names are forgotten. 
+ At any given time during execution, you'll have at most four active Python scopes—local, enclosing, global,
+ and built-in—depending on where you are in the code. On the other hand, you'll always have at least two
+ active scopes, which are the global and built-in scopes. These two scopes will always be available 
+ 
+6. What happens to variables in a local scope when the function call returns?
+ans: Each call of the function creates new local variables, and their lifetimes expire when the function returns to the caller.
+
+
+7. What is the concept of a return value? Is it possible to have a return value in an expression?
+ans: 
+A return is a value that a function returns to the calling script or function when it completes its task. 
+A return value can be any one of the four variable types: handle, integer, object, or string.
+
+8. If a function does not have a return statement, what is the return value of a call to that function?
+ans: 
+If no return statement appears in a function definition, control automatically returns to the calling
+function after the last statement of the called function is executed.
+
+9. How do you make a function variable refer to the global variable?
+ans:
+when  a variable create inside a function, that variable is local, and can only be used inside that function.
+ To create a global variable inside a function, you can use the global keyword.
+
+10. What is the data type of None?
+ans:None is a data type of its own (NoneType) and only None can be None.
+
+11. What does the sentence import areallyourpetsnamederic do?
+ans:That import statement imports a module named areallyourpetsnamederic. (This isn't a real Python module, by the way.)
+
+12. If you had a bacon() feature in a spam module, what would you call it after importing spam?
+ans:
+spam. bacon()
+13. What can you do to save a programme from crashing if it encounters an error?
+ans:error handling can be used to notify the user of why the error occurred and gracefully exit the process that caused the error.
+
+14. What is the purpose of the try clause? What is the purpose of the except clause?
+ans:The try block lets you test a block of code for errors. The except block lets you handle the error. 
+
